@@ -16,6 +16,8 @@ public void logowaniemicrosoft() {
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
+    ss
+
 public void przyponijHaslo() {
         System.out.println("Kliknij na przycisk przypomnij haslo");
     }
